@@ -4,7 +4,7 @@ This document presents some capabilities of the [PyEphem](http://rhodesmill.org/
 
 ## Requirements
 
-The document was prepared with usage *Python 2.7* and the following packages:
+The document was prepared using *Python 2.7* and the following packages:
 
  * *ephem 3.7.6.0*
  * *pandas 0.20.3*
